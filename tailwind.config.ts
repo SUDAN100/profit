@@ -71,7 +71,7 @@ export default {
 					400: '#c084fc',
 					500: '#a855f7',
 					600: '#9333ea',
-					700: '#7e22ce',
+					700: '#60b5ff', // Updated from #7e22ce
 					800: '#6b21a8',
 					900: '#581c87'
 				},
@@ -117,3 +117,4 @@ export default {
 	},
 	plugins: [require("tailwindcss-animate")],
 } satisfies Config;
+
